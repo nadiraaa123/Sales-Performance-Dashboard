@@ -63,7 +63,7 @@ Weekly sales and profit trends for the current year, with an average benchmark l
 ```
 sales-dashboard-project/
 ├── datasets/
-│   └── eu/
+│   └── not-cleaned/
 │       ├── Customers.csv
 │       ├── Location.csv
 │       ├── Orders.csv
@@ -73,7 +73,7 @@ sales-dashboard-project/
 │   ├── 2_clean_location.py
 │   ├── 3_clean_products.py
 │   └── 4_clean_orders.py
-├── output/
+├── cleaned/
 │   ├── Customers_clean.csv
 │   ├── Location_clean.csv
 │   ├── Orders_clean.csv
